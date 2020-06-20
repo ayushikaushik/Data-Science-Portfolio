@@ -3,7 +3,7 @@
 ### [Linear Regression Project](https://github.com/ayushikaushik/Data-Science-Portfolio/blob/master/Linear%20Regression%20Project/Linear%20Regression%20Project.ipynb):
 For this project, I have used [Medical Cost Personal Datasets](https://www.kaggle.com/mirichoi0218/insurance) available on kaggle. I have applied linear regression model using both sklearn and statsmodel libraries. Model using Sklearn gave R2 score of 79% and one using Statsmodel gave R-squared equal to 0.98.
 
-### [Logistic Regression Project]():
+### [Logistic Regression Project](https://github.com/ayushikaushik/Data-Science-Portfolio/blob/master/Logistic%20Regression%20Project/Logistic%20Regression%20Project.ipynb):
 For this project, I have used [Heart Disease Dataset](https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression) available on Kaggle to predict heart disease using logistic model. My model accuracy is 86.5%.
 
 
