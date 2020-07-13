@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-### [Regression Project]():
+### [Regression Project](https://github.com/ayushikaushik/Data-Science-Portfolio/blob/master/Regression%20Project/Regression-all-models.ipynb):
 I have used [Avacado Prices dataset](https://www.kaggle.com/neuromusic/avocado-prices) from kaggle in this project. I applied *linear regression, k-nearest neighbors, decision tree, random forest and support vector machines* algorithms using scikit-learn library to predict prices of avacado. Using TensorFlow2.0 I created a *deep neural network* of depth 3. For this dataset Random Forest gave least mean absolute error.
 
 ### [Classification Project]():
