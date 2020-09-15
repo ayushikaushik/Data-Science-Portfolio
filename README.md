@@ -1,5 +1,8 @@
 # Data Science Portfolio
 
+### [Neural Network Project](https://github.com/ayushikaushik/Data-Science-Portfolio/blob/master/dnn-and-cnn-with-tensorflow2-0.ipynb):
+I used [Fashion MNIST](https://www.kaggle.com/zalando-research/fashionmnist) dataset from Kaggle. I applied deep neural network and got accuracy of 87.10%. After applying convolution and pooling layers accuracy increased to 92.8%.
+
 ### [Regression Project](https://github.com/ayushikaushik/Data-Science-Portfolio/blob/master/Regression%20Project/comparison-of-all-regression-models.ipynb):
 I have used [Avacado Prices dataset](https://www.kaggle.com/neuromusic/avocado-prices) from Kaggle in this project. I applied **linear regression, k-nearest neighbors, decision tree, random forest, support vector machines and xgboost** algorithms using scikit-learn library to predict prices of avacado. Using TensorFlow2.0, I created a **deep neural network** of depth 3. For this dataset, XGBoost gave least mean absolute error and maximum R-squared of 0.89.
 
